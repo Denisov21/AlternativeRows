@@ -2,5 +2,5 @@ AlternativeRows
 ===============
 
 Table in alternate rows with Jquery
-
-This is Draft!
+Use the library https://jquery.com/
+Request IE 7+, Chrome, Opera, Firefox and more.
